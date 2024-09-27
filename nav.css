@@ -1,0 +1,35 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+    font-family: audi;
+}
+
+.nav1 {
+    font-family: audi;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+@font-face {
+    font-family: audi;
+    src: url(./Audi/auditype_extendednormal.ttf);
+}
+
+.o {
+    text-decoration: none;
+    color: grey;
+    margin-top: 25px;
+}
+
+.logo_audi {
+    width: 75px;
+    margin-left: 96px;
+}
+
+.nav1 {
+    height: 72px;
+    width: 972px;
+}

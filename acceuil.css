@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+    font-family: audi;
+}
+
+@font-face {
+    font-family: audi;
+    src: url(./Audi/auditype_extendednormal.ttf);
+}
+
+.img2 {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.mess1 {
+    position: relative;
+    color: white;
+    bottom: 610px;
+    left: 150px;
+    width: 50%;
+
+}
+
+.des {
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.div4 {
+    text-align: center;
+    height: 300px;
+    margin: 0;
+}
+
+.div5 {
+    height: 400px;
+    background-color: black;
+    margin: 0%;
+}
+
+.m {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.video {
+    height: 850px;
+}
